@@ -66,7 +66,7 @@ It does not represent official financial advice or government inflation projecti
 
 ## 👤 Author
 **Arjun P**  
-Aspiring Data Analyst | Excel & Data Analytics Enthusiast  
+Aspiring Data Enthusiast  
 
 🔗 LinkedIn: *http://www.linkedin.com/in/arjun-p-64b45b199*  
 🔗 GitHub: *https://github.com/arjun-works*  
